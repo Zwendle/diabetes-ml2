@@ -1,0 +1,6 @@
+name: ml2-final-proj
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+prefix: /opt/anaconda3/envs/ml2-final-proj
